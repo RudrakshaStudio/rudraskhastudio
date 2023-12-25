@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rudraskhastudio/static/css/main.0ab44494.css",
+    "main.js": "/rudraskhastudio/static/js/main.0b629d7f.js",
+    "static/js/787.a49ba02e.chunk.js": "/rudraskhastudio/static/js/787.a49ba02e.chunk.js",
+    "static/media/PHOTO-2023-12-25-13-50-04_prev_ui.png": "/rudraskhastudio/static/media/PHOTO-2023-12-25-13-50-04_prev_ui.cc766432931f26f1273f.png",
+    "static/media/img1.jpeg": "/rudraskhastudio/static/media/img1.1541e82a652f5e650576.jpeg",
+    "static/media/img4.jpeg": "/rudraskhastudio/static/media/img4.5fe3d141c7acac91d9f8.jpeg",
+    "static/media/img3.jpeg": "/rudraskhastudio/static/media/img3.e7a2fe6dae5c523c7ba7.jpeg",
+    "static/media/img2.jpeg": "/rudraskhastudio/static/media/img2.00d67194d3394250a642.jpeg",
+    "static/media/img5.jpeg": "/rudraskhastudio/static/media/img5.fbc3a82542b372d07b6b.jpeg",
+    "static/media/logo.svg": "/rudraskhastudio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/rudraskhastudio/index.html",
+    "main.0ab44494.css.map": "/rudraskhastudio/static/css/main.0ab44494.css.map",
+    "main.0b629d7f.js.map": "/rudraskhastudio/static/js/main.0b629d7f.js.map",
+    "787.a49ba02e.chunk.js.map": "/rudraskhastudio/static/js/787.a49ba02e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ab44494.css",
+    "static/js/main.0b629d7f.js"
+  ]
+}
